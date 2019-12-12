@@ -1,0 +1,81 @@
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\bin\Debug\WpfClients.exe.config
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\MainWindow.baml
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\Styles\ModernWindowStyle.baml
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\App.baml
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\MainWindow.g.cs
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\Styles\ModernWindowStyle.g.cs
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\App.g.cs
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\WpfClients_MarkupCompile.cache
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\WpfClients.g.resources
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\WpfClients.Properties.Resources.resources
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\WpfClients.csproj.GenerateResource.Cache
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\bin\Debug\WpfClients.exe
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\bin\Debug\WpfClients.pdb
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\WpfClients.exe
+c:\users\nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\WpfClients.pdb
+C:\Users\Nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\Windows\CreateClientWindow.baml
+C:\Users\Nec\documents\visual studio 2012\Projects\WpfClients\WpfClients\obj\Debug\Windows\CreateClientWindow.g.cs
+C:\Users\Nec\Desktop\WpfClients\WpfClients\bin\Debug\WpfClients.exe.config
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\WpfClients.exe
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\WpfClients.pdb
+C:\Users\Nec\Desktop\WpfClients\WpfClients\bin\Debug\WpfClients.exe
+C:\Users\Nec\Desktop\WpfClients\WpfClients\bin\Debug\WpfClients.pdb
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\WpfClients.csprojResolveAssemblyReference.cache
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\MainWindow.baml
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\Styles\ModernWindowStyle.baml
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\Windows\CreateClientWindow.baml
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\App.baml
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\MainWindow.g.cs
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\Styles\ModernWindowStyle.g.cs
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\Windows\CreateClientWindow.g.cs
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\App.g.cs
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\WpfClients_MarkupCompile.cache
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\WpfClients.g.resources
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\WpfClients.Properties.Resources.resources
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\WpfClients.csproj.GenerateResource.Cache
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\Windows\CreateOrderWindow.baml
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\Windows\CreateOrderWindow.g.cs
+C:\Users\Nec\Desktop\WpfClients\WpfClients\bin\Debug\Data\ClientsDB.mdf
+C:\Users\Nec\Desktop\WpfClients\WpfClients\bin\Debug\Data\ClientsDB_log.ldf
+C:\Users\Nec\Desktop\WpfClients\WpfClients\obj\Debug\WpfClients_Content.g.cs
+C:\Users\Nec\Desktop\WpfClients\WpfClients\bin\Debug\EntityFramework.dll
+C:\Users\Nec\Desktop\WpfClients\WpfClients\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nec\Desktop\WpfClients\WpfClients\bin\Debug\EntityFramework.xml
+C:\Users\Nec\Desktop\WpfClients\WpfClients\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nec\Desktop\WpfClients\WpfClients\bin\Debug\Data\DBClients.mdf
+C:\Users\Nec\Desktop\WpfClients\WpfClients\bin\Debug\Data\DBClients_log.ldf
+E:\Тестовые задания\Логрокон 2018\WpfClients\WpfClients\bin\Debug\WpfClients.exe.config
+E:\Тестовые задания\Логрокон 2018\WpfClients\WpfClients\obj\Debug\WpfClients.exe
+E:\Тестовые задания\Логрокон 2018\WpfClients\WpfClients\obj\Debug\WpfClients.pdb
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\WpfClients.exe.config
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\WpfClients.exe
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\WpfClients.pdb
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\EntityFramework.dll
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\EntityFramework.xml
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\WpfClients.csprojAssemblyReference.cache
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\MainWindow.baml
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\Styles\ModernWindowStyle.baml
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\Windows\CreateClientWindow.baml
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\Windows\CreateOrderWindow.baml
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\App.baml
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\MainWindow.g.cs
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\Styles\ModernWindowStyle.g.cs
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\Windows\CreateClientWindow.g.cs
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\Windows\CreateOrderWindow.g.cs
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\App.g.cs
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\WpfClients_Content.g.cs
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\WpfClients_MarkupCompile.cache
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\WpfClients.g.resources
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\WpfClients.Properties.Resources.resources
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\WpfClients.csproj.GenerateResource.cache
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\WpfClients.csproj.CopyComplete
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\WpfClients.exe
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\obj\Debug\WpfClients.pdb
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\Unity.Abstractions.dll
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\Unity.Container.dll
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\Unity.Abstractions.pdb
+C:\Users\vnikitin\Documents\Projects\WpfClients\WpfClients\bin\Debug\Unity.Container.pdb

@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfClients.CreateClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Style="{StaticResource ModernWindowStyle}" ResizeMode="NoResize" Icon="/Resourses/Icons/ico.png" Height="250" Width="310">
+    
+    <DockPanel>
+        <StackPanel Height="40" DockPanel.Dock="Bottom">
+            <Button Command="{Binding SaveCommand, Mode=OneTime}" Margin="0,0,15,5" HorizontalAlignment="Right" VerticalAlignment="Bottom" 
+                    Height="28">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Image Source="/Resourses/Icons/save.png" Margin="5,0,0,0" Width="20"/>
+                    <TextBlock Margin="5,0,0,0" Width="70" HorizontalAlignment="Center" VerticalAlignment="Center">Сохранить</TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <Grid DockPanel.Dock="Bottom" Margin="20,20,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="60" />
+                <ColumnDefinition Width="200" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="60"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+            </Grid.RowDefinitions>
+            
+            <Label Grid.Row="0" Grid.Column="0" Content="Имя:" />
+            <TextBox Grid.Row="0" Grid.Column="1" Height="22" Text="{Binding Path=Name, Mode=TwoWay}" />
+
+            <Label Grid.Row="1" Grid.Column="0" Content="Адрес:" />
+            <TextBox Grid.Row="1" Grid.Column="1" Height="60" Text="{Binding Path=Address, Mode=TwoWay}" TextWrapping="Wrap" AcceptsReturn="True"/>
+
+            <CheckBox Margin="5,10,0,0" Grid.Row="2" Grid.Column="0" Content="VIP" IsChecked="{Binding Path=VIP, Mode=TwoWay}"/>
+        </Grid>
+    </DockPanel>
+</Window>

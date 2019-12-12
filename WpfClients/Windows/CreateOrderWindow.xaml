@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfClients.CreateOrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         Style="{StaticResource ModernWindowStyle}" ResizeMode="NoResize" Icon="/Resourses/Icons/ico.png" Height="250" Width="310">
+
+    <DockPanel>
+        <StackPanel Height="40" DockPanel.Dock="Bottom">
+            <Button Command="{Binding SaveCommand, Mode=OneTime}" Margin="0,0,15,5" HorizontalAlignment="Right" VerticalAlignment="Bottom" 
+                    Height="28">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Image Source="/Resourses/Icons/save.png" Margin="5,0,0,0" Width="20"/>
+                    <TextBlock Margin="5,0,0,0" Width="70" HorizontalAlignment="Center" VerticalAlignment="Center">Сохранить</TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        <StackPanel Margin="20"  DockPanel.Dock="Bottom">
+            <Label Grid.Row="1" Grid.Column="0" Content="Описание заказа:" />
+            <TextBox Grid.Row="1" Grid.Column="1" Height="100" Text="{Binding Path=Description, Mode=TwoWay}" TextWrapping="Wrap" AcceptsReturn="True"/>
+        </StackPanel>
+        
+    </DockPanel>
+</Window>
